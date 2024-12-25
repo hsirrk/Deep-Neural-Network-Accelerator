@@ -1,0 +1,179 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vtask4
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1732494107
+!i10b 1
+!s100 6[G7VM_^lLj^Bd[]2Ymbz2
+I:OYekbineDRzQW0oIBj?z3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 task4_sv_unit
+S1
+Z3 dD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4
+Z4 w1731714214
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1732494107.000000
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtb_vga_avalon
+R0
+R1
+!i10b 1
+!s100 en3S0@IZ1o5c>gIFaXM3N0
+II54Z85czH[aKGJMHSMO6:3
+R2
+!s105 tb_vga_avalon_sv_unit
+S1
+R3
+w1732494103
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv|
+!i113 1
+R7
+R8
+vvga_adapter
+R0
+DXx6 sv_std 7 mti_fli 0 22 N`967G9WZ3=6fdOR5MX]S1
+R1
+!i10b 1
+!s100 3XQ:FfZhHjXbZ<UJP<Ecz1
+I6mT1keSR7=]J7H0DzR9Wf3
+R2
+!s105 vga_adapter_sv_unit
+S1
+R3
+R4
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv
+L0 82
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv|
+!i113 1
+R7
+R8
+vvga_address_translator
+R0
+Z9 !s110 1732494108
+!i10b 1
+!s100 >4Ck2[^7MRo410`;`mBhG0
+I5:ZXeCjS0QzF6l54kc_]`2
+R2
+!s105 vga_address_translator_sv_unit
+S1
+R3
+R4
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv
+L0 8
+R5
+r1
+!s85 0
+31
+Z10 !s108 1732494108.000000
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv|
+!i113 1
+R7
+R8
+vvga_avalon
+R0
+R1
+!i10b 1
+!s100 @8[keAgAM:G2HSMzOCJ9]2
+IL2ZVC^1I=W5NYl8Lc=eJ=3
+R2
+!s105 vga_avalon_sv_unit
+S1
+R3
+w1732493845
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv|
+!i113 1
+R7
+R8
+vvga_controller
+R0
+R9
+!i10b 1
+!s100 F0o4fLV?^zYh9KnJ2aB;z2
+I73?O8VQ[2jJnlYiO3DR=Y2
+R2
+!s105 vga_controller_sv_unit
+S1
+R3
+R4
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv
+L0 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv|
+!i113 1
+R7
+R8
+vvga_pll
+R0
+R1
+!i10b 1
+!s100 B@RTRAe2BCUY;gLZj0kH`3
+IG`=AJ5ZKeXS3VDG=CgX]50
+R2
+!s105 vga_pll_sv_unit
+S1
+R3
+R4
+8D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv
+FD:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv
+L0 36
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv|
+!i113 1
+R7
+R8

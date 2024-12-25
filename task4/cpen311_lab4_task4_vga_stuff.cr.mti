@@ -1,0 +1,50 @@
+{D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_controller
+
+Top level modules:
+	vga_controller
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_pll.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_pll
+
+Top level modules:
+	vga_pll
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_avalon.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_avalon
+
+Top level modules:
+	vga_avalon
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_adapter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_adapter
+
+Top level modules:
+	vga_adapter
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/task4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task4
+
+Top level modules:
+	task4
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/tb_vga_avalon.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_vga_avalon
+
+Top level modules:
+	tb_vga_avalon
+
+} {} {}} {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv} {1 {vlog -work work -sv -stats=none {D:/krish/Documents/UBC year 4/CPEN 311/lab_4/lab-4-lab4-l1c-60/task4/vga_address_translator.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_address_translator
+
+Top level modules:
+	vga_address_translator
+
+} {} {}}
